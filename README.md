@@ -1,6 +1,6 @@
 # Frank Torres
 
-**Pharmacist & software engineer** building health-tech SaaS for the Brazilian public sector — clinical decision support, pharmacovigilance and outcomes measurement.
+**Pharmacist & software engineer** building health-tech SaaS for clinics and the Brazilian public sector — clinical decision support, drug-utilization surveillance and geriatric outcomes — plus machine learning for pharmaceutical research.
 
 MSc candidate in Pharmaceutical Sciences (PPGCF-UFPR) · Data Science & Big Data specialization (UFPR) · Curitiba, Brazil
 
