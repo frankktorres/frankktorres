@@ -17,7 +17,7 @@ MSc candidate in Pharmaceutical Sciences (PPGCF-UFPR) · Data Science & Big Data
 | Product | What it does | Status |
 |---|---|---|
 | **UNION Core / Guard / Trace / Senior** | Clinical-pharmaceutical decision support (CDSS): rule engine driven by curated, source-graded clinical knowledge, with audit trail and role-based access | In production |
-| **PharmaSense** | B2G pharmaceutical surveillance for municipalities: population-level outbreak detection (Farrington-family algorithms) over dispensing data | Active development |
+| **UNION Pharmasense** | B2G pharmaceutical surveillance for municipalities: population-level outbreak detection (Farrington-family algorithms) over dispensing data | Active development |
 | **UNION Senior** | Outcomes platform for geriatric care: longitudinal scores from validated instruments, metadata-driven improvement / stable / decline engine, cohort analytics for clinicians, managers and researchers | In construction |
 
 ## Research software
